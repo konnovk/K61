@@ -7,7 +7,7 @@
 - [ADAU1701](https://www.chipdip.ru/product/rdc-pro-2-0027-sigmadsp-adau1701-modul-tsifrovoy-chipstudio-9001563137)
 - [DAC PCM5102A](https://www.chipdip.ru/product/pcm5102a-audio-dac-preobrazovatel-i2s-chipstudio-9000569737)
 - 12мм МДФ
-- (UPD) Усилитель каждой колонки располагается на задней панели колонки, корпус напечатан на 3д принтере, габариты каждого корпуса 180х150х39мм
+- (UPD) Усилитель каждой колонки располагается на задней панели колонки, корпус усилителя напечатан на 3д принтере
 
 ![1.JPG](/photos/1.JPG)
 ![2.JPG](/photos/2.JPG)
