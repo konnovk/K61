@@ -13,3 +13,7 @@
 ![2.JPG](/photos/2.JPG)
 ![3.JPG](/photos/3.JPG)
 ![4.JPG](/photos/4.JPG)
+![SPL.JPG](/photos/spl.jpg)
+![THD.JPG](/photos/thd.jpg)
+
+    Провал на 90Гц - отражение от пола (предположительно)
